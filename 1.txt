@@ -16,5 +16,24 @@
             </ul>
         </nav>
     </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my profile! Here you can learn more about me.</p>
+    </section>
+    
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+        <p>Some of my favorite hobbies include reading, hiking, and coding.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me via email or social media.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 My Profile. All rights reserved.</p>
+    </footer>
 </body>
 </html>
